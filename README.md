@@ -7,7 +7,7 @@
   </div>
   
   <p></p>
-<pre><code class="has-line-data" data-line-start="1" data-line-end="30">Project/
+<pre><code class="has-line-data" data-line-start="1" data-line-end="30">CCS/
 
 ├─ index.html - файл гіпертекстової розмітки головної сторінки
 ├─ gas.html - файл гіпертекстової розмітки сторінки обчислення газу
